@@ -72,8 +72,6 @@ Aplikasi manajemen usaha car wash yang membantu pengelolaan pelanggan, layanan, 
 
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ### 🎨 Frontend
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
