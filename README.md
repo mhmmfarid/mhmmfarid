@@ -23,9 +23,6 @@
 ---
 
 # 👨‍💻 Tentang Saya
-
-# 👨‍💻 Tentang Saya
-
 Halo! Saya **Mufarid Adnan**, mahasiswa **Sistem Informasi** yang memiliki ketertarikan besar dalam bidang **Front End Web Development** dan pengembangan aplikasi berbasis web.
 
 Memiliki pengalaman dibidang pengembangan perangkat lunak dan teknologi informasi yang membentuk kemampuan analisis sistem, analisis data, perancangan design sistem, kerjasama tim, manajemen waktu, pemecahan masalah dan komunikasi.Mampu bekerja secara tim ataupun individu dalam menyelesaikan proyek.Tertarik untuk berkarier di divisi pekerjaan yang berfokus pada teknologi dan sistem informasi
