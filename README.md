@@ -1,10 +1,18 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257464-4dfaf2df-fd42-4fd2-b5b1-0bdb56d31b65.gif" width="100%" />
+
+<br>
+
 # 👋 Halo, Saya Mufarid Adnan
 
-### 💻 Front end Developer
+### 💻 Front End Developer
 
-*Membangun aplikasi web yang modern, efisien, dan memberikan solusi nyata melalui teknologi.*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Front+End+Developer;Information+Systems+Student;Learning+Laravel+%26+Filament;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" />
+
+<br>
+
+*Membangun antarmuka web yang modern, responsif, dan memberikan pengalaman pengguna yang nyaman.*
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mhmmfarid&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -16,15 +24,15 @@
 
 # 👨‍💻 Tentang Saya
 
-Halo! Saya **Mufarid Adnan**, seorang mahasiswa Sistem Informasi yang memiliki minat besar di bidang **Full Stack Web Development**.
+Halo! Saya **Mufarid Adnan**, seorang mahasiswa **Sistem Informasi** yang memiliki minat besar di bidang **Front End Web Development**.
 
-Saya berfokus pada pengembangan aplikasi berbasis web menggunakan **Laravel**, **Filament**, **MySQL**, dan **Tailwind CSS**. Saya senang membangun sistem yang tidak hanya berjalan dengan baik, tetapi juga memberikan solusi yang efektif, mudah digunakan, dan memiliki pengalaman pengguna yang nyaman.
+Saya berfokus pada pengembangan antarmuka aplikasi web menggunakan **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, dan **Bootstrap**. Saat ini saya juga sedang mempelajari **Laravel**, **Filament**, dan **MySQL** untuk memperluas kemampuan saya dalam membangun aplikasi web modern.
 
 Saya percaya bahwa setiap proyek merupakan kesempatan untuk terus belajar, meningkatkan kualitas kode, dan menghasilkan aplikasi yang bermanfaat.
 
 ---
 
-# 🚀 Proyek Unggulan
+# 🚀 Featured Projects
 
 ## 🏥 Sistem Informasi Rumah Sakit (SIMRS)
 
@@ -36,11 +44,21 @@ Sistem Informasi Rumah Sakit berbasis web untuk membantu digitalisasi pelayanan 
 
 ---
 
+## 📚 Sistem Informasi Perpustakaan Digital
+
+Sistem Informasi Perpustakaan Digital berbasis web yang dirancang untuk mempermudah pengelolaan buku, anggota, peminjaman, pengembalian, serta administrasi perpustakaan secara digital. Sistem mendukung manajemen pengguna berdasarkan peran, katalog buku, transaksi peminjaman, riwayat aktivitas, dan dashboard modern sehingga pengelolaan perpustakaan menjadi lebih efisien.
+
+**Teknologi:** Laravel • Jetstream • Livewire • Tailwind CSS • MySQL
+
+🔗 https://github.com/mhmmfarid/perpus
+
+---
+
 ## 🏢 Sistem Manajemen Data PT Telkom
 
 Aplikasi berbasis web yang mendukung proses administrasi dan pengelolaan data operasional di lingkungan PT Telkom sehingga proses pencatatan, pencarian, serta monitoring data menjadi lebih efisien.
 
-**Teknologi:** Php Native • MySQL
+**Teknologi:** PHP Native • MySQL
 
 🔗 https://github.com/mhmmfarid/ptelkm
 
@@ -50,7 +68,7 @@ Aplikasi berbasis web yang mendukung proses administrasi dan pengelolaan data op
 
 Aplikasi arsip digital untuk membantu penyimpanan, pencarian, dan pengelolaan dokumen secara terstruktur sehingga proses administrasi menjadi lebih cepat dan aman.
 
-**Teknologi:** Php • MySQL
+**Teknologi:** PHP • MySQL
 
 🔗 https://github.com/mhmmfarid/bri_arsip
 
@@ -60,7 +78,7 @@ Aplikasi arsip digital untuk membantu penyimpanan, pencarian, dan pengelolaan do
 
 Aplikasi manajemen usaha car wash yang membantu pengelolaan pelanggan, layanan, transaksi, serta laporan operasional sehingga proses bisnis menjadi lebih efektif.
 
-**Teknologi:** Php • MySQL
+**Teknologi:** PHP • MySQL
 
 🔗 https://github.com/mhmmfarid/carwash
 
@@ -72,6 +90,7 @@ Aplikasi manajemen usaha car wash yang membantu pengelolaan pelanggan, layanan, 
 
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge)
+
 ### 🎨 Frontend
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -127,12 +146,12 @@ Aplikasi manajemen usaha car wash yang membantu pengelolaan pelanggan, layanan, 
 
 # 🎯 Saat Ini Saya Sedang Mempelajari
 
-- Clean Architecture
-- RESTful API
-- Best Practice Laravel
-- Optimasi Database MySQL
-- Data Mining
-- UI/UX Design
+- 🌐 Laravel & Filament
+- 🏗️ Clean Architecture
+- 🔗 RESTful API
+- 📊 Enterprise Resource Planning (ERP)
+- 📈 Data Mining
+- 🎯 UI/UX Design
 
 ---
 
@@ -156,16 +175,11 @@ Aplikasi manajemen usaha car wash yang membantu pengelolaan pelanggan, layanan, 
 
 ---
 
-# 💡 Motto
-
-> **"Masig belajar, terus berkembang, dan menciptakan solusi melalui teknologi."**
-
----
-
 <div align="center">
 
-### ⭐ Terima kasih telah mengunjungi profil GitHub saya.
+## 🤝 LET'S BE CONNECT
 
 Jika Anda tertarik untuk berdiskusi, berkolaborasi, atau sekadar berbagi pengalaman seputar pengembangan perangkat lunak, jangan ragu untuk menghubungi saya.
+
 
 </div>
